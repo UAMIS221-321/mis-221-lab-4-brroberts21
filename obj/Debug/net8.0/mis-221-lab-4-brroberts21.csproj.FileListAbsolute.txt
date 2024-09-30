@@ -1,0 +1,15 @@
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\bin\Debug\net8.0\mis-221-lab-4-brroberts21.exe
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\bin\Debug\net8.0\mis-221-lab-4-brroberts21.deps.json
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\bin\Debug\net8.0\mis-221-lab-4-brroberts21.runtimeconfig.json
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\bin\Debug\net8.0\mis-221-lab-4-brroberts21.dll
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\bin\Debug\net8.0\mis-221-lab-4-brroberts21.pdb
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.AssemblyInfoInputs.cache
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.AssemblyInfo.cs
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.csproj.CoreCompileInputs.cache
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.sourcelink.json
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.dll
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\refint\mis-221-lab-4-brroberts21.dll
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.pdb
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\mis-221-lab-4-brroberts21.genruntimeconfig.cache
+C:\Users\Ben Roberts\Documents\Code\MIS 221\mis-221-lab-4-brroberts21\obj\Debug\net8.0\ref\mis-221-lab-4-brroberts21.dll
